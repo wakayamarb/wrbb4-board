@@ -32,7 +32,7 @@ sample
 
 How to use Wakayama.rb board
 ------
-https://github.com/wakayamarb/wrbb4-board/tree/master/firmware_release/description/Ruby%20Firmware%20on%20GR-CITRUS.pdf
+https://github.com/wakayamarb/wrbb4-board/blob/master/description/Ruby%20Firmware%20on%20WRBB4.pdf
 
 Link
 ------
